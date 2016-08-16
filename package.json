@@ -1,0 +1,23 @@
+{
+  "name": "heroku-node",
+  "version": "1.0.0",
+  "description": "Our sample Node to Heroku app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjacobson7/heroku-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjacobson7/heroku-node/issues"
+  },
+  "homepage": "https://github.com/mjacobson7/heroku-node#readme",
+  "dependencies": {
+    "ejs": "^2.5.1",
+    "express": "^4.14.0"
+  }
+}
